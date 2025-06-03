@@ -2,6 +2,10 @@
 
 DeskZen is a browser-based web application designed to reduce workplace stress through quick, desk-friendly micro-break activities. This repository contains the Proof of Concept (PoC) implementation.
 
+## Demo Link
+
+Demo deployed on Netlify: [https://boisterous-arithmetic-e60dcb.netlify.app/](https://boisterous-arithmetic-e60dcb.netlify.app/)
+
 ## Project Overview
 
 DeskZen delivers 1-3 minute micro-break activities like shoulder stretches, breathing exercises, and creative prompts to enhance mental well-being during the workday. The PoC includes:
