@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Open the main app
   openAppButton.addEventListener('click', function() {
     // Use a relative URL for the PoC that would work on any deployment
-    chrome.tabs.create({ url: 'https://deskzen-poc.netlify.app' });
+    chrome.tabs.create({ url: 'https://boisterous-arithmetic-e60dcb.netlify.app/' });
   });
   
   function startCountdown() {
